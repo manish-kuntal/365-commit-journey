@@ -1,0 +1,23 @@
+[
+    {
+        "date": "10-01-2026",
+        "type": "Expense",
+        "category": "Food",
+        "amount": 1000.0,
+        "note": "upi"
+    },
+    {
+        "date": "10-01-2026",
+        "type": "Income",
+        "category": "Salary",
+        "amount": 20000.0,
+        "note": ""
+    },
+    {
+        "date": "10-01-2026",
+        "type": "Expense",
+        "category": "Investment",
+        "amount": 5000.0,
+        "note": "grow"
+    }
+]
